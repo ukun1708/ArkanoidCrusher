@@ -1,0 +1,24 @@
+{
+  "idSave": 129,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "level": 1,
+  "coins": 1000,
+  "speedBoostLevel": 2,
+  "wightPlusLevel": 2,
+  "wightMinusLevel": 1,
+  "speedBoostDuration": 6.0,
+  "wightPlusDuration": 6.0,
+  "wightMinusDuration": 5.0,
+  "speedBoostCost": 200,
+  "wightBoostPlusCost": 200,
+  "wightBoostMinusCost": 100
+}
